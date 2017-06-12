@@ -43,7 +43,7 @@
     "react-static-container": "1.0.1"
   },
   "peerDependencies": {
-    "react": "16.0.0-alpha.16",
+    "react": "16.0.0-alpha.6",
     "react-native": "0.x",
     "react-dom": "^15.4.2",
     "react-addons-pure-render-mixin": "^15.4.2"
